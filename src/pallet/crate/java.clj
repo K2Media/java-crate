@@ -54,7 +54,7 @@
     [component]
     [(pacman-package-names vendor)]))
 
-(def ubuntu-partner-url "http://archive.canonical.com/ubuntu")
+(def ubuntu-partner-url "http://91.189.92.191/ubuntu")
 
 (defn- use-jpackage
   "Determine if jpackage should be used"
